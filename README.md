@@ -22,8 +22,8 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: (https://github.com/crolette/stats-preview-card-component)
-- Live Site URL: (https://crolette.github.io/stats-preview-card-component/)
+- Solution URL: (https://github.com/crolette/faq-accordion-card-main)
+- Live Site URL: (https://crolette.github.io/faq-accordion-card-main/)
 
 ### Built with
 
